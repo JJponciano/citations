@@ -12,6 +12,7 @@ doi={10.5220/0013864400003985},
 isbn={978-989-758-772-6},
 issn={2184-3252},
 }
+
 @conference{webist24,
 author={Claire Ponciano and Markus Schaffert and Jean{-}Jacques Ponciano},
 title={ODKAR: “Ontology-Based Dynamic Knowledge Acquisition and Automated Reasoning Using NLP, OWL, and SWRL”},
